@@ -1,0 +1,30 @@
+.container1, img{
+    float: left;
+    width: 150px;
+    height: 150px;
+    margin-right: 20px;
+}
+
+ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.thumbnail{
+    float: left;
+    width: 125px;
+    height: 125px;
+    margin: 10px;
+}
+
+.container2 p{
+    float: left;
+    margin: 10px;
+    padding: 10px;
+    background: #f0eb63;
+}
+
+p.clear{
+    clear: left;
+}
